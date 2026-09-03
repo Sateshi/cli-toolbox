@@ -1,1 +1,3 @@
 Je suis le premier fichier texte simple.
+Je suis la deuxième ligne du premier fichier.
+Je suis une troisième ligne.
